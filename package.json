@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Tatyana1204/hexlet-git/issues"
   },
-  "homepage": "https://github.com/Tatyana1204/hexlet-git#readme"
+  "homepage": "https://github.com/Tatyana1204/hexlet-git#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
